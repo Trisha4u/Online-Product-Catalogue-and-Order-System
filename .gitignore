@@ -23,3 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 .env
+node_modules/
+dist/
+.env
+.vite/
+
+# Local Netlify folder
+.netlify
